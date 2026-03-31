@@ -1,59 +1,79 @@
-# 👋 Merhaba, ben Zeynep Can
+# ✨ Merhaba, ben Zeynep Can ✨
 
-Excel ile veri analizi, dashboard geliştirme ve iş problemlerine yönelik projeler üreten bir geliştiriciyim.
+## 📊 Data Analysis | Excel | Power BI | SQL
+
+Veriyi sadece toplamak değil, analiz etmek ve anlamlı hale getirmek üzerine çalışıyorum.  
+Dashboard geliştirme, veri analizi ve iş problemlerine yönelik projeler üretiyorum.
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 Kullandığım Araçlar
 
-- 📊 Excel ile veri analizi ve raporlama  
-- 💰 Finansal analiz ve bütçe yönetimi  
-- 📈 Satış ve performans analizi  
-- 📌 Dashboard ve görselleştirme  
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Neler Yapıyorum?
+
+- 📊 Veri analizi ve raporlama  
+- 📈 Dashboard geliştirme  
+- 💰 Finansal analiz ve bütçe takibi  
+- 🏢 Satış ve performans analizi  
 
 ---
 
 ## 🧩 Öne Çıkan Projelerim
 
 ### 📊 Excel Productivity Tracker
-Günlük çalışma ve görev takibi sistemi
-
+Günlük çalışma ve görev takibi sistemi  
 🔗 https://github.com/zzeynepcan/excel-productivity-tracker
 
 ---
 
 ### 💰 Finansal Takip & Harcama Analizi
-Kişisel gelir-gider ve bütçe yönetim sistemi
-
+Gelir-gider ve bütçe yönetimi sistemi  
 🔗 https://github.com/zzeynepcan/Zeynep_Can_Excel-Finansal_TakipHarcam-Analizi
 
 ---
 
 ### 📈 Satış ve Performans Analizi
-Satış verileri üzerinden detaylı analiz ve dashboard
-
+Dashboard ve KPI’lar ile satış analizi  
 🔗 https://github.com/zzeynepcan/Zeynep_Can_Satis_ve_Performans_Analizi
 
 ---
 
 ## ✍️ Yazılarım
 
-📌 Medium:
+📌 Medium  
 https://medium.com/@zeynepcan2000
 
 ---
 
-## 🔗 Bana Ulaşın
+## 🔗 Bana Ulaş
 
-- 💼 LinkedIn: https://www.linkedin.com/in/zeynep-can-aa3728253/
-- 📷 Instagram: https://www.instagram.com/_zzeynepcan/
+- 💼 LinkedIn:  
+https://www.linkedin.com/in/zeynep-can-aa3728253/
 
----
-
-## ⚡ Hedefim
-
-Veri analizi ve iş zekası alanında kendimi geliştirerek, veriyi anlamlandıran ve karar destek sağlayan projeler üretmek.
+- 📷 Instagram:  
+https://www.instagram.com/_zzeynepcan/
 
 ---
 
-✨ Geliştirmeye devam...
+## 🎯 Hedefim
+
+Veri analizi ve iş zekası alanında kendimi geliştirerek,  
+veriyi anlamlandıran ve karar destek sağlayan projeler üretmek.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzeynepcan&theme=tokyonight" />
+</p>
+
+---
+
+✨ Geliştirmeye devam 🚀
