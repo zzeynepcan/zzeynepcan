@@ -73,7 +73,3 @@ veriyi anlamlandıran ve karar destek sağlayan projeler üretmek.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzeynepcan&theme=tokyonight" />
 </p>
-
----
-
-✨ Geliştirmeye devam 🚀
