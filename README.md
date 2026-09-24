@@ -1,75 +1,113 @@
-# ✨ Merhaba, ben Zeynep Can ✨
+# Hi, I'm Zeynep Can
 
-## 📊 Data Analysis | Excel | Power BI | SQL
+### Junior Business Analyst | ERP & Business Systems
 
-Veriyi sadece toplamak değil, analiz etmek ve anlamlı hale getirmek üzerine çalışıyorum.  
-Dashboard geliştirme, veri analizi ve iş problemlerine yönelik projeler üretiyorum.
+Management Information Systems graduate with an interest in business analysis, ERP systems, business processes, data analysis and reporting.
 
----
+Through my internship experiences, I had the opportunity to work with data and reporting tools such as SQL, Power BI and Excel, while gaining exposure to ERP-based business processes in Microsoft Dynamics 365 Finance & Operations and caniasERP environments.
 
-## 🚀 Kullandığım Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+I am currently developing my skills in Business Analysis and Business Systems by building practical case studies, documenting business processes and sharing what I learn.
 
 ---
 
-## 📈 Neler Yapıyorum?
+## Focus Areas
 
-- 📊 Veri analizi ve raporlama  
-- 📈 Dashboard geliştirme  
-- 💰 Finansal analiz ve bütçe takibi  
-- 🏢 Satış ve performans analizi  
-
----
-
-## 🧩 Öne Çıkan Projelerim
-
-### 📊 Excel Productivity Tracker
-Günlük çalışma ve görev takibi sistemi  
-🔗 https://github.com/zzeynepcan/excel-productivity-tracker
+- Business Analysis
+- Business Process Analysis
+- ERP & Business Systems
+- Requirements Analysis
+- AS-IS / TO-BE Process Design
+- User Stories & Acceptance Criteria
+- UAT
+- Data Analysis & Reporting
 
 ---
 
-### 💰 Finansal Takip & Harcama Analizi
-Gelir-gider ve bütçe yönetimi sistemi  
-🔗 https://github.com/zzeynepcan/Zeynep_Can_Excel-Finansal_TakipHarcam-Analizi
+## Tools & Technologies
+
+**Business Systems**
+
+`Microsoft Dynamics 365 F&O` · `caniasERP`
+
+**Data & Reporting**
+
+`SQL` · `Microsoft SQL Server` · `Power BI` · `Excel` · `Python`
+
+**Business Analysis**
+
+`Process Analysis` · `Requirements Analysis` · `User Stories` · `Acceptance Criteria` · `UAT`
 
 ---
 
-### 📈 Satış ve Performans Analizi
-Dashboard ve KPI’lar ile satış analizi  
-🔗 https://github.com/zzeynepcan/Zeynep_Can_Satis_ve_Performans_Analizi
+## Featured Projects
+
+### HR Leave Management – Business Analysis Case Study
+
+A fictional HR/ERP case study covering AS-IS and TO-BE process analysis, business and functional requirements, user stories, acceptance criteria, workflow analysis, requirement traceability and UAT scenarios.
+
+[View Project →](https://github.com/zzeynepcan/hr-leave-management-ba-case-study)
 
 ---
 
-## ✍️ Yazılarım
+### Customer Segmentation & Spending Analysis
 
-📌 Medium  
-https://medium.com/@zeynepcan2000
+Excel-based customer segmentation and spending analysis covering customer groups, categories, cities, income levels and monthly trends.
 
----
-
-## 🔗 Bana Ulaş
-
-- 💼 LinkedIn:  
-https://www.linkedin.com/in/zeynep-can-aa3728253/
-
-- 📷 Instagram:  
-https://www.instagram.com/_zzeynepcan/
+[View Project →](https://github.com/zzeynepcan/Zeynep_Can_Musteri_Segmentasyon_ve_Harcama_Analizi)
 
 ---
 
-## 🎯 Hedefim
+### Sales & Performance Analysis
 
-Veri analizi ve iş zekası alanında kendimi geliştirerek,  
-veriyi anlamlandıran ve karar destek sağlayan projeler üretmek.
+Sales analysis project focused on monthly performance, regional analysis, product performance, KPIs and management reporting.
+
+[View Project →](https://github.com/zzeynepcan/Zeynep_Can_Satis_ve_Performans_Analizi)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzeynepcan&theme=tokyonight" />
-</p>
+### Financial Tracking & Expense Analysis
+
+Excel project for income and expense tracking, category analysis, monthly summaries, budgeting and financial reporting.
+
+[View Project →](https://github.com/zzeynepcan/Zeynep_Can_Excel-Finansal_TakipHarcam-Analizi)
+
+---
+
+## Writing
+
+I share what I learn about Business Analysis, ERP and Business Systems through practical examples on Medium.
+
+Topics include:
+
+- AS-IS / TO-BE Process Analysis
+- Requirements Analysis
+- User Stories
+- Acceptance Criteria
+- UAT
+- ERP & HR Processes
+
+[Read my Medium articles →](https://medium.com/@zeynepcan2000)
+
+---
+
+## Portfolio
+
+My personal website brings together my experience, projects, education and articles.
+
+[Visit zeynepcan.com.tr →](https://zeynepcan.com.tr)
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/zeynep-can-aa3728253/) ·
+[Medium](https://medium.com/@zeynepcan2000) ·
+[Portfolio](https://zeynepcan.com.tr)
+
+---
+
+### Currently Learning
+
+I continue to improve my understanding of how business needs can be translated into clear processes, requirements and system solutions.
+
+My current focus is on developing toward **Business Analysis, ERP and Business Systems** roles.
